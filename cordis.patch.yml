@@ -1,0 +1,4 @@
+# mem0-dock-tuner bundle patch: mounts the tiny dock visibility toggle.
+- insert:
+    - id: mem0-dock-tuner
+      name: dsh-mem0-dock-tuner

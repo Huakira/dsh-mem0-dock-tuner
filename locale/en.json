@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "mem0 Dock Toggle",
+    "description": "Toggles the dsh-mem0 composer dock badge: hidden by default so it takes no space; switch back in settings any time."
+  }
+}
