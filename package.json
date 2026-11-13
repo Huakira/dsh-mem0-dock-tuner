@@ -1,5 +1,5 @@
 {
-  "name": "@huakira/mem0-dock-tuner",
+  "name": "@huakirax/mem0-dock-tuner",
   "version": "0.1.0",
   "description": "Tiny toggle for the dsh-mem0 composer dock badge: hide or show the memory activity indicator without touching the mem0 plugin.",
   "keywords": [
