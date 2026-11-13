@@ -1,5 +1,5 @@
 {
-  "name": "dsh-mem0-dock-tuner",
+  "name": "@huakira/mem0-dock-tuner",
   "version": "0.1.0",
   "description": "Tiny toggle for the dsh-mem0 composer dock badge: hide or show the memory activity indicator without touching the mem0 plugin.",
   "keywords": [
@@ -35,5 +35,20 @@
         "@deepseek-ai/dsh-client-locale"
       ]
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huakira/dsh-mem0-dock-tuner.git"
+  },
+  "author": {
+    "name": "Huakira",
+    "email": "huakexie@proton.me"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "dsh": ">=0.2.2-rc.1 <0.3.0",
+    "node": ">=20"
   }
 }
