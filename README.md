@@ -4,6 +4,6 @@ Tiny toggle for the dsh-mem0 composer dock badge.
 
 ## 安装 / Install
 
-In the DSH profile `package.json`: `"dsh-mem0-dock-tuner": "@huakira/mem0-dock-tuner"`.
+In the DSH profile `package.json`: `"@huakira/mem0-dock-tuner": "^0.1.0"`.
 
 AI-assisted. MIT License.
