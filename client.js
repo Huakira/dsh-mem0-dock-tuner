@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-	id: "dsh-mem0-dock-tuner",
+	id: "@huakirax/dsh-mem0-dock-tuner",
 	factory: (require) => {
 		const React = require("react");
 		const h = React.createElement;
@@ -174,7 +174,7 @@ window.__ModuleLoader__.load({
 			ctx.slots.inject("plugins.bundle.config", () => ctx.slots.register(
 				{
 					name: "plugins.bundle.config",
-					key: "dsh-mem0-dock-tuner",
+					key: "@huakirax/dsh-mem0-dock-tuner",
 					locale: NS
 				},
 				() => h(ConfigPage, { locale })
